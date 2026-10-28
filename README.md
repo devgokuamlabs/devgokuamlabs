@@ -144,35 +144,21 @@ review, release and improve
 
 **Working principles:** clear ownership · readable code · practical documentation · reproducible environments · observable delivery · continuous improvement
 
-# `06 / GitHub Telemetry`
+# `06 / GitHub Workspace`
 
-## Public telemetry for `@devgokuamlabs`
+## Current public profile snapshot
 
-The snapshot below is based on the **current public GitHub profile**, verified on **29 October 2026**. Private repositories and internal project details are intentionally excluded.
-
-<div align="center">
-  <img src="./assets/profile-telemetry.svg" width="100%" alt="Verified public GitHub telemetry for devgokuamlabs" />
-</div>
-
-### Live GitHub cards
+One consistent view of the repositories currently visible on **[@devgokuamlabs](https://github.com/devgokuamlabs)**. Verified on **29 October 2026** using GitHub's public repository metadata.
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=devgokuamlabs&amp;show_icons=true&amp;hide_border=true&amp;bg_color=020617&amp;title_color=38BDF8&amp;icon_color=2DD4BF&amp;text_color=CBD5E1&amp;rank_icon=github&amp;include_all_commits=true&amp;count_private=false&amp;custom_title=devgokuamlabs%20%C2%B7%20Public%20GitHub%20Stats" alt="Public GitHub statistics for devgokuamlabs" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgokuamlabs&amp;layout=compact&amp;hide_border=true&amp;bg_color=020617&amp;title_color=38BDF8&amp;text_color=CBD5E1&amp;langs_count=10&amp;custom_title=devgokuamlabs%20%C2%B7%20Public%20Languages" alt="Public repository languages for devgokuamlabs" />
+  <a href="https://github.com/devgokuamlabs?tab=repositories">
+    <img src="./assets/profile-telemetry.svg" width="100%" alt="Current public GitHub workspace telemetry for devgokuamlabs" />
+  </a>
 </div>
 
-<div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=devgokuamlabs&amp;hide_border=true&amp;background=020617&amp;ring=38BDF8&amp;fire=2DD4BF&amp;currStreakLabel=7DD3FC&amp;sideLabels=CBD5E1&amp;dates=64748B&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC" alt="Contribution streak" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devgokuamlabs&amp;theme=github_dark&amp;utcOffset=5.5" alt="Productive time" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devgokuamlabs&amp;theme=github_dark" width="100%" alt="GitHub profile details" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devgokuamlabs&amp;bg_color=020617&amp;color=94a3b8&amp;line=38bdf8&amp;point=2dd4bf&amp;area=true&amp;area_color=0e7490&amp;hide_border=true&amp;custom_title=Engineering%20Activity" width="100%" alt="Contribution activity graph" />
-</div>
+<p align="center">
+  <a href="https://github.com/devgokuamlabs?tab=repositories"><strong>Explore public repositories →</strong></a>
+</p>
 
 <div align="center">
   <sub>Professional workspace for applied software engineering and work-related repository maintenance.</sub>

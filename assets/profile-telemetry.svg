@@ -1,17 +1,88 @@
-<svg width="1280" height="340" viewBox="0 0 1280 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">devgokuamlabs public GitHub telemetry</title>
-  <desc id="desc">A verified public profile snapshot from the devgokuamlabs GitHub account.</desc>
-  <defs><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE"/><stop offset="0.55" stop-color="#38BDF8"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient></defs>
-  <rect width="1280" height="340" rx="36" fill="#050816"/>
-  <text x="56" y="62" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800">PUBLIC GITHUB SNAPSHOT</text>
-  <text x="56" y="96" fill="#7C93AE" font-family="Consolas, 'Courier New', monospace" font-size="15" letter-spacing="1.7">LIVE ACCOUNT: @DEVGOKUAMLABS · VERIFIED 29 OCT 2026</text>
-  <path d="M56 116H1224" fill="none" stroke="url(#accent)" stroke-width="3"/>
-  <g font-family="Arial, Helvetica, sans-serif">
-    <g transform="translate(56 145)"><rect width="270" height="140" rx="26" fill="#0B1424" stroke="#155E75" stroke-width="1.5"/><text x="24" y="67" fill="#22D3EE" font-size="48" font-weight="800">08</text><text x="24" y="101" fill="#F8FAFC" font-size="18" font-weight="700">PUBLIC REPOSITORIES</text><text x="24" y="124" fill="#8095AE" font-size="14">Current GitHub profile total</text></g>
-    <g transform="translate(355 145)"><rect width="270" height="140" rx="26" fill="#0B1424" stroke="#0369A1" stroke-width="1.5"/><text x="24" y="67" fill="#38BDF8" font-size="48" font-weight="800">03</text><text x="24" y="101" fill="#F8FAFC" font-size="18" font-weight="700">ORIGINAL PUBLIC REPOS</text><text x="24" y="124" fill="#8095AE" font-size="14">Forks excluded</text></g>
-    <g transform="translate(654 145)"><rect width="270" height="140" rx="26" fill="#0B1424" stroke="#0F766E" stroke-width="1.5"/><text x="24" y="67" fill="#2DD4BF" font-size="44" font-weight="800">2023</text><text x="24" y="101" fill="#F8FAFC" font-size="18" font-weight="700">GITHUB MEMBER SINCE</text><text x="24" y="124" fill="#8095AE" font-size="14">Public account metadata</text></g>
-    <g transform="translate(953 145)"><rect width="271" height="140" rx="26" fill="#0B1424" stroke="#6D28D9" stroke-width="1.5"/><text x="24" y="62" fill="#A78BFA" font-size="31" font-weight="800">TypeScript</text><text x="24" y="101" fill="#F8FAFC" font-size="18" font-weight="700">PRIMARY PUBLIC LANGUAGE</text><text x="24" y="124" fill="#8095AE" font-size="14">Original repositories</text></g>
+<svg width="1280" height="560" viewBox="0 0 1280 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="surface" x1="40" y1="20" x2="1240" y2="540" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.56" stop-color="#050A16"/>
+      <stop offset="1" stop-color="#0B0718"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="56" y1="0" x2="1050" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="0.52" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="mix" x1="80" y1="0" x2="568" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0.375" stop-color="#22D3EE"/>
+      <stop offset="0.375" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#1E293B" stroke-opacity="0.28"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="1278" height="558" rx="34" fill="url(#surface)" stroke="#334155" stroke-width="2"/>
+  <rect x="2" y="2" width="1276" height="556" rx="33" fill="url(#grid)"/>
+  <circle cx="1138" cy="42" r="92" fill="#0EA5E9" fill-opacity="0.08" filter="url(#glow)"/>
+  <circle cx="1190" cy="492" r="108" fill="#7C3AED" fill-opacity="0.10" filter="url(#glow)"/>
+
+  <rect x="56" y="42" width="284" height="34" rx="17" fill="#0B1726" stroke="#155E75"/>
+  <circle cx="76" cy="59" r="6" fill="#22D3EE"/>
+  <text x="94" y="64" fill="#A5F3FC" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" letter-spacing="2">LIVE PUBLIC PROFILE</text>
+  <text x="56" y="126" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="800">GitHub workspace telemetry</text>
+  <text x="56" y="158" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="20">Current public repository metadata for @devgokuamlabs</text>
+
+  <rect x="956" y="52" width="268" height="48" rx="24" fill="#0B1324" stroke="#4338CA"/>
+  <circle cx="980" cy="76" r="7" fill="#34D399"/>
+  <text x="998" y="82" fill="#DDD6FE" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.1">VERIFIED 29 OCT 2026</text>
+
+  <g>
+    <rect x="56" y="196" width="270" height="148" rx="24" fill="#0B1626" stroke="#0E7490" stroke-width="2"/>
+    <text x="80" y="255" fill="#22D3EE" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="800">08</text>
+    <text x="80" y="291" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">PUBLIC REPOSITORIES</text>
+    <text x="80" y="318" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="15">Visible on the profile</text>
   </g>
-  <text x="56" y="318" fill="#5F748D" font-family="Consolas, 'Courier New', monospace" font-size="12">SOURCE · GITHUB REST API · PUBLIC DATA ONLY</text>
-  <rect x="1" y="1" width="1278" height="338" rx="35" fill="none" stroke="#334155" stroke-width="2"/>
+  <g>
+    <rect x="348" y="196" width="270" height="148" rx="24" fill="#0B1626" stroke="#0284C7" stroke-width="2"/>
+    <text x="372" y="255" fill="#38BDF8" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="800">03</text>
+    <text x="372" y="291" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">ORIGINAL REPOSITORIES</text>
+    <text x="372" y="318" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="15">Owned public work</text>
+  </g>
+  <g>
+    <rect x="640" y="196" width="270" height="148" rx="24" fill="#0B1626" stroke="#0F766E" stroke-width="2"/>
+    <text x="664" y="255" fill="#2DD4BF" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="800">05</text>
+    <text x="664" y="291" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">REFERENCE FORKS</text>
+    <text x="664" y="318" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="15">Public reference repositories</text>
+  </g>
+  <g>
+    <rect x="932" y="196" width="292" height="148" rx="24" fill="#0B1626" stroke="#7C3AED" stroke-width="2"/>
+    <text x="956" y="255" fill="#A78BFA" font-family="Arial, Helvetica, sans-serif" font-size="50" font-weight="800">2023</text>
+    <text x="956" y="291" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700">GITHUB MEMBER SINCE</text>
+    <text x="956" y="318" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="15">14 December</text>
+  </g>
+
+  <g>
+    <rect x="56" y="370" width="536" height="130" rx="24" fill="#071321" stroke="#1E3A5F"/>
+    <text x="80" y="405" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.6">PUBLIC REPOSITORY MIX</text>
+    <rect x="80" y="429" width="488" height="18" rx="9" fill="#172033"/>
+    <rect x="80" y="429" width="488" height="18" rx="9" fill="url(#mix)"/>
+    <circle cx="87" cy="476" r="6" fill="#22D3EE"/>
+    <text x="102" y="482" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">3 original</text>
+    <circle cx="265" cy="476" r="6" fill="#A78BFA"/>
+    <text x="280" y="482" fill="#E2E8F0" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">5 references</text>
+    <text x="476" y="482" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="14">8 total</text>
+  </g>
+
+  <g>
+    <rect x="616" y="370" width="608" height="130" rx="24" fill="#0B1020" stroke="#312E81"/>
+    <text x="644" y="405" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="1.6">PRIMARY OWNED-REPOSITORY LANGUAGE</text>
+    <text x="644" y="458" fill="url(#accent)" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="800">TypeScript</text>
+    <text x="644" y="484" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="16">Based on original public repositories with detected code</text>
+    <path d="M1114 411L1148 445L1114 479" stroke="#38BDF8" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1180 411L1146 445L1180 479" stroke="#8B5CF6" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <text x="56" y="535" fill="#64748B" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="1.5">SOURCE · GITHUB REST API · PUBLIC DATA ONLY · PRIVATE AND INTERNAL REPOSITORIES EXCLUDED</text>
 </svg>
