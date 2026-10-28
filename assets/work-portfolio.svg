@@ -1,0 +1,17 @@
+<svg width="1280" height="430" viewBox="0 0 1280 430" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Selected Applied Software Work</title>
+  <desc id="desc">Five high-level work initiatives in a modern rounded-card layout.</desc>
+  <defs><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE"/><stop offset="0.55" stop-color="#38BDF8"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient></defs>
+  <rect width="1280" height="430" rx="34" fill="#050816"/>
+  <text x="56" y="59" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="800">SELECTED APPLIED SOFTWARE WORK</text>
+  <text x="56" y="88" fill="#64748B" font-family="Consolas, 'Courier New', monospace" font-size="12" letter-spacing="2">PROJECTS PRESENTED AT A PROFESSIONAL, NON-ARCHITECTURAL LEVEL</text>
+  <path d="M56 106H1224" fill="none" stroke="url(#accent)" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(56 138)"><rect width="368" height="111" rx="24" fill="#0B1424" stroke="#155E75"/><text x="22" y="32" fill="#22D3EE" font-family="Consolas, monospace" font-size="12">01 / WEB + MOBILE</text><text x="22" y="66" fill="#F8FAFC" font-size="20" font-weight="700">Seaweed Aggregator</text><text x="22" y="91" fill="#94A3B8" font-size="14">Coastal field and livelihood programs</text></g>
+    <g transform="translate(456 138)"><rect width="368" height="111" rx="24" fill="#0B1424" stroke="#0369A1"/><text x="22" y="32" fill="#38BDF8" font-family="Consolas, monospace" font-size="12">02 / WEB + MOBILE</text><text x="22" y="66" fill="#F8FAFC" font-size="20" font-weight="700">ElephantWatch</text><text x="22" y="91" fill="#94A3B8" font-size="14">Monitoring and field support</text></g>
+    <g transform="translate(856 138)"><rect width="368" height="111" rx="24" fill="#0B1424" stroke="#0F766E"/><text x="22" y="32" fill="#2DD4BF" font-family="Consolas, monospace" font-size="12">03 / WEB</text><text x="22" y="66" fill="#F8FAFC" font-size="20" font-weight="700">Sapling Health Monitor</text><text x="22" y="91" fill="#94A3B8" font-size="14">Agricultural field observations</text></g>
+    <g transform="translate(256 278)"><rect width="368" height="111" rx="24" fill="#0B1424" stroke="#92400E"/><text x="22" y="32" fill="#F59E0B" font-family="Consolas, monospace" font-size="12">04 / WEB</text><text x="22" y="66" fill="#F8FAFC" font-size="20" font-weight="700">Goat Monitoring</text><text x="22" y="91" fill="#94A3B8" font-size="14">Livestock and livelihood programs</text></g>
+    <g transform="translate(656 278)"><rect width="368" height="111" rx="24" fill="#0B1424" stroke="#6D28D9"/><text x="22" y="32" fill="#A78BFA" font-family="Consolas, monospace" font-size="12">05 / IoT + WEB</text><text x="22" y="66" fill="#F8FAFC" font-size="20" font-weight="700">Data Center Monitoring</text><text x="22" y="91" fill="#94A3B8" font-size="14">Environmental monitoring</text></g>
+  </g>
+  <rect x="1" y="1" width="1278" height="428" rx="33" fill="none" stroke="#334155" stroke-width="2"/>
+</svg>
