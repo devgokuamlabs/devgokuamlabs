@@ -10,25 +10,27 @@
 
 # `01 / Introduction`
 
-## Building dependable digital tools for real-world programs.
+## I build software that helps people do real work in the field.
 
-I work across **web platforms, mobile applications, IoT monitoring, backend services, data systems, and Linux infrastructure**. This account is the professional workspace where I maintain work-related repositories, delivery references, prototypes, and engineering documentation.
+I am a software engineer who develops and maintains **websites, mobile applications, backend services, IoT monitoring tools, and Linux-based environments** for rural technology and field programs.
 
-My focus is applied software engineering: understand the field requirement, create a clear user experience, build maintainable software, and keep the operational path reliable.
+My work helps field teams **collect information, monitor real-world conditions, coordinate activities, and make better-informed decisions**. I contribute throughout the product lifecycle: understanding requirements, designing practical user flows, developing features, connecting applications with data, resolving issues, supporting releases, and keeping repositories maintainable.
+
+Within the organization, I help turn operational needs into dependable digital products. Across the industry, my focus is using practical software and IoT technology to make agriculture, livelihood, wildlife, and infrastructure programs easier to manage and scale.
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h2>Build</h2>
-      <p>Useful web and mobile products shaped by real operational needs.</p>
+      <h2>What I deliver</h2>
+      <p>Web and mobile products, dashboards, APIs, and monitoring tools built around real user needs.</p>
     </td>
     <td width="33%" valign="top">
-      <h2>Connect</h2>
-      <p>Applications that bring field activity, IoT signals, data, and teams together.</p>
+      <h2>How I contribute</h2>
+      <p>I take features from requirement and interface design through development, testing, release, and maintenance.</p>
     </td>
     <td width="34%" valign="top">
-      <h2>Maintain</h2>
-      <p>Readable repositories, practical documentation, and dependable delivery.</p>
+      <h2>Why it matters</h2>
+      <p>The software gives teams clearer information, simpler workflows, and more reliable support for field operations.</p>
     </td>
   </tr>
 </table>
